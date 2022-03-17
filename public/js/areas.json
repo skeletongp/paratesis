@@ -1,0 +1,96 @@
+{
+    "data":[
+        {
+            "career": "Psicología Escolar",
+            "area":"Humanidades"
+        },
+        {
+            "career": "Psicología Industrial",
+            "area":"Humanidades"
+        },
+        {
+            "career": "Psicología Clínica",
+            "area":"Humanidades"
+        },
+        {
+            "career": "Educación mención Ciencias Sociales",
+            "area":"Humanidades"
+        },
+        {
+            "career": "Educación mención Letras/Lengua Española",
+            "area":"Humanidades"
+        },
+        {
+            "career": "Educación mención Matemáticas y Física",
+            "area":"Humanidades"
+        },
+        {
+            "career": "Educación mención Idiomas / Letras modernas",
+            "area":"Humanidades"
+        },
+        {
+            "career": "Educación mención Informática",
+            "area":"Humanidades"
+        },
+        {
+            "career": "Educación mención Inicial",
+            "area":"Humanidades"
+        },
+        {
+            "career": "Contabilidad y Finanzas",
+            "area":"Ciencias Administrativas"
+        },
+        {
+            "career": "Administración de Empresas",
+            "area":"Ciencias Administrativas"
+        },
+        {
+            "career": "Hotelería y Turismo",
+            "area":"Ciencias Administrativas"
+        },
+        {
+            "career": "Mercadeo y Ventas",
+            "area":"Ciencias Administrativas"
+        },
+        {
+            "career": "Ingeniería de Sistemas/Software",
+            "area":"Ingeniería y Tecnología"
+        },
+        {
+            "career": "Ingeniería Industrial",
+            "area":"Ingeniería y Tecnología"
+        },
+        {
+            "career": "Ingeniería Electrónica",
+            "area":"Ingeniería y Tecnología"
+        },
+        {
+            "career": "Ingeniería Civil",
+            "area":"Ingeniería y Tecnología"
+        },
+        {
+            "career": "Arquitectura",
+            "area":"Ingeniería y Tecnología"
+        },
+        {
+            "career": "Ingeniería de Alimentos",
+            "area":"Ingeniería y Tecnología"
+        },
+        {
+            "career": "Medicina",
+            "area":"Ciencias de la Salud"
+        },
+        {
+            "career": "Enfermería",
+            "area":"Ciencias de la Salud"
+        },
+        {
+            "career": "Odontología",
+            "area":"Ciencias de la Salud"
+        },
+        {
+            "career": "Nutrición",
+            "area":"Ciencias de la Salud"
+        }
+    ]
+}
